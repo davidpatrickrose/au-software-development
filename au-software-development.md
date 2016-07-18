@@ -53,7 +53,7 @@ https://github.com/CodePact/au-components/blob/widgets/ip_services.md
 
 https://github.com/CodePact/au-components/blob/widgets/confidentiality.md
 
-## Limits on suing
+## Claim limits
 
 https://github.com/CodePact/au-components/blob/widgets/limitation.md
 
