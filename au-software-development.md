@@ -57,6 +57,10 @@ https://github.com/CodePact/au-components/blob/widgets/confidentiality.md
 
 https://github.com/CodePact/au-components/blob/widgets/limitation.md
 
+## Covering costs
+
+https://github.com/CodePact/au-components/blob/widgets/indemnity.md
+
 ## Cancellation for convenience
 
 Cancellation for convenience makes sense where software is developed on a continuous basis.
