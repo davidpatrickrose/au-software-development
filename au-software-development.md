@@ -17,7 +17,7 @@ Software development is usually:
 - work done according to a "work scope" (work description); or
 - continuous ad-hoc work.
 
-If you're doing the first kind of work, make sure you have a Work Scope - you can mkae it part of the Agreement by just mentioning it in the right way.
+If you're doing the first kind of work, make sure you have a Work Scope - you can make it part of the Agreement by just mentioning it in the right way.
 
 https://github.com/CodePact/au-components/blob/widgets/agreement_duration.md
 
